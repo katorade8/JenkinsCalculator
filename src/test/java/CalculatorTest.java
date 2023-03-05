@@ -30,6 +30,7 @@ public class CalculatorTest {
 
     }
 
+
     @Test
     public void multiplyTest(){
         Calculator myCalculator = new Calculator();
